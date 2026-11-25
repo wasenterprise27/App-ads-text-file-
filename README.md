@@ -8,4 +8,4 @@
 
   <a href="https://aistudio.google.com/apps">Start building</a>
 
-</div>
+</div>google.com, pub-2572430667748626, DIRECT, f08c47fec0942fa0
